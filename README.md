@@ -38,7 +38,7 @@ This project can be used as a foundation for:
 
 ---
 
-📖 API Documentation & Testing
+## 📖 API Documentation & Testing
 🟢 Swagger UI (Interactive Docs)
 The project includes OpenAPI 3 integration. Once the application is running, you can explore and test the endpoints directly through the browser.
 
